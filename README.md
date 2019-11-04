@@ -1,2 +1,3 @@
-sample
-first PR
+# Sample
+
+Sample repository
